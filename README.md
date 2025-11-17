@@ -1,4 +1,4 @@
-# Prática 06 
+# Prática
 
 ## 🧠 Descrição
 API REST em Spring Boot para gerenciar produtos, com:
